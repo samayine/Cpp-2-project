@@ -393,12 +393,3 @@ int main()
 * when displaying all employees, make it look like a table
 * display errors in red color
 */
-
-/*
-	NAME							ID
-Tariku Temesgen					UGR/7565/15
-Samuel Ayine					UGR/6563/13
-Tewobsta Seyoum					UGR/3422/15
-Tsion Teklay					UGR/1801/15
-Ruhama Muluneh					UGR/3645/15
-*/
